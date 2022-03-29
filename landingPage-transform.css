@@ -1,0 +1,9 @@
+.about:hover {
+    transform: translate(20px, 20px);
+}
+.contact:hover {
+    transform: translate(20px, 20px);
+}
+.port:hover {
+    transform: translate(20px, 20px);
+}
