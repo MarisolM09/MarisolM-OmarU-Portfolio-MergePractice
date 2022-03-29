@@ -1,0 +1,11 @@
+.Contact:hover{
+    font-weight:bold;
+}
+.About:hover{
+    transform: skew(120deg);
+
+}
+.Port:hover{
+    transition: transform 1s;
+    width: 150px;
+}
