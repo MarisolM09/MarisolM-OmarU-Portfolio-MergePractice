@@ -1,9 +1,11 @@
-.about:hover {
-    transform: translate(20px, 20px);
+.Contact:hover{
+    font-weight:bold;
 }
-.contact:hover {
-    transform: translate(20px, 20px);
+.About:hover{
+    transform: skew(120deg);
+
 }
-.port:hover {
-    transform: translate(20px, 20px);
+.Port:hover{
+    transition: transform 1s;
+    width: 150px;
 }
